@@ -4,8 +4,11 @@
 # Discord 自动聊天 2.0 使用教程
 ## 1、抓取token
 安装chrome插件：https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd
+
 打开dc页面：https://discord.com/channels/@me
+
 点击插件的``Get token``就获取了
+
 ![image](https://github.com/user-attachments/assets/25f49dfc-80c9-4bf8-847c-0648dd81d3d3)
 
 ## 2、设置配置文件``setup.json``
