@@ -20,6 +20,7 @@
     "conversation_interval_seconds": 10 #这里是间隔时间
 }
 ```
+api申请地址：https://openrouter.ai/settings/keys
 
 ## 3、设置代理池``proxy_config.json``（没有代理池的可以跳过）
 ```json
