@@ -14,7 +14,7 @@
 ## 2、设置配置文件``setup.json``
 ```json
 {
-    "use_ai": true, # true开启ai聊天，根据最后一个聊天记录自动回复，fals关闭ai聊天，启用messages.txt，通常拿来自动领水用
+    "use_ai": true, # true开启ai聊天，根据最后一个聊天记录自动回复，false关闭ai聊天，启用messages.txt，通常拿来自动领水用
     "api_key": "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", # 这个是ai的key，dandan这里使用的是免费的。
     "default_text_file": "config/messages.txt", #这个是自定义聊天的文本位置
     "conversation_interval_seconds": 10 #这里是间隔时间
